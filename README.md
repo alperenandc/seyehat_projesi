@@ -2,6 +2,7 @@
 Bu proje, kullanıcıların şehirleri, otelleri ve oda türlerini görüntüleyebileceği ve oteller için online rezervasyon yapabileceği basit bir seyahat rezervasyon sistemi uygulamasıdır.
 
 ---Özellikler---
+
 Şehir, otel ve oda türü veritabanı yönetimi
 
 Otel detaylarını görme
